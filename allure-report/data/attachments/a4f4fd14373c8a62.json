@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[text() = \"Twój koszyk1\"]\"}\n  (Session info: chrome=94.0.4606.71)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x002ABDE3+2473443]\n\tOrdinal0 [0x00246661+2057825]\n\tOrdinal0 [0x00152438+1057848]\n\tOrdinal0 [0x0017C7DB+1230811]\n\tOrdinal0 [0x001A6712+1402642]\n\tOrdinal0 [0x0019571A+1333018]\n\tOrdinal0 [0x001A4ABF+1395391]\n\tOrdinal0 [0x001955AB+1332651]\n\tOrdinal0 [0x00172104+1188100]\n\tOrdinal0 [0x00172F59+1191769]\n\tGetHandleVerifier [0x00432266+1549718]\n\tGetHandleVerifier [0x004DD4A7+2250711]\n\tGetHandleVerifier [0x0033718B+521403]\n\tGetHandleVerifier [0x00336229+517465]\n\tOrdinal0 [0x0024B79D+2078621]\n\tOrdinal0 [0x0024FB58+2095960]\n\tOrdinal0 [0x0024FC92+2096274]\n\tOrdinal0 [0x00259541+2135361]\n\tBaseThreadInitThunk [0x7605FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x771A7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x771A7A6E+238]\n\t(No symbol) [0x00000000]\n"
+}

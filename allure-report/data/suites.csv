@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Wed Oct 06 15:08:39 SAMT 2021","Wed Oct 06 15:08:39 SAMT 2021","0","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"passed","Wed Oct 06 15:08:39 SAMT 2021","Wed Oct 06 15:08:40 SAMT 2021","1331","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"passed","Wed Oct 06 15:08:40 SAMT 2021","Wed Oct 06 15:08:45 SAMT 2021","5486","","My Login application","","My Login application","should","should",""

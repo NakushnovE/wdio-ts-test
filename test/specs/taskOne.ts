@@ -1,12 +1,12 @@
-const assert = require('assert')
+//const assert = require('assert')
 
 describe('My Login application', () => {
-    it.skip('should login with valid credentials', async () => {
+    it('should login with valid credentials', async () => {
         await browser.url(`https://testingcup.pgs-soft.com/`)       
         //const title = await browser.getTitle()
         
         //assert.strictEqual(title,  "Welcome!")
-        expect(browser).toHaveTitle("Welcome")
+        expect(browser).toHaveTitle("Welcome1111111111111111111")
         //assert(title === "Google")
 
         /*const btn1 = await $('.//div[@class="col-md-6"]/a')
@@ -16,7 +16,8 @@ describe('My Login application', () => {
         assert(zagolovok === "Zadanie 1")*/
         //assert.strictEqual(zagolovok, 'Zadanie 1')
     })
-})
+
+
 
     it('should', async () => {
         await browser.url(`https://testingcup.pgs-soft.com/`)       
@@ -34,3 +35,6 @@ describe('My Login application', () => {
         //await browser.pause(10000)
         await expect(order).toBeDisplayed()
     })
+
+})
+

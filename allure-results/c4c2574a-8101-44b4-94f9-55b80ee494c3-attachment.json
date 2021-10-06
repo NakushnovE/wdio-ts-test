@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h4[text()=\"Okulary\"]/following-sibling::div[@class=\"input-group input-group-sm\"]/input"
+}
